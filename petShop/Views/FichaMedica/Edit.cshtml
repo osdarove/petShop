@@ -1,0 +1,64 @@
+﻿@model petShop.Models.FichaMedica
+
+@{
+    ViewData["Title"] = "Editar Ficha Médica";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="IDFicha" />
+
+    <div class="form-group">
+        <label asp-for="NombreMascota"></label>
+        <input asp-for="NombreMascota" class="form-control" />
+        <span asp-validation-for="NombreMascota" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="TipoMascota"></label>
+        <select asp-for="TipoMascota" class="form-control">
+            <option>Perro</option>
+            <option>Gato</option>
+            <option>Pez</option>
+            <option>Otro</option>
+        </select>
+        <span asp-validation-for="TipoMascota" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Tamano"></label>
+        <div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" asp-for="Tamano" value="Pequeño" id="TamanoPequeno" />
+                <label class="form-check-label" for="TamanoPequeno">Pequeño</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" asp-for="Tamano" value="Mediano" id="TamanoMediano" />
+                <label class="form-check-label" for="TamanoMediano">Mediano</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" asp-for="Tamano" value="Grande" id="TamanoGrande" />
+                <label class="form-check-label" for="TamanoGrande">Grande</label>
+            </div>
+        </div>
+        <span asp-validation-for="Tamano" class="text-danger"></span>
+    </div>
+    
+
+    <div class="form-group">
+        <label asp-for="Descripcion"></label>
+        <textarea asp-for="Descripcion" class="form-control"></textarea>
+        <span asp-validation-for="Descripcion" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="IDUsuario">Dueño</label>
+        <select asp-for="IDUsuario" asp-items="@(ViewBag.IDUsuario as SelectList)" class="form-control"></select>
+        <span asp-validation-for="IDUsuario" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

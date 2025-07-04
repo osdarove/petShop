@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\controllers\\fichamedicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:controllers\\fichamedicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\fichamedica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\fichamedica\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\fichamedica\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\fichamedica\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\fichamedica\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\fichamedica\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\fichamedica\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\fichamedica\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\models\\fichamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:models\\fichamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\models\\vacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:models\\vacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\views\\usuario\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:views\\usuario\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|c:\\users\\oscar.rodriguez\\desktop\\net\\petshop\\petshop\\petshop\\migrations\\20250703203028_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2655A997-22E2-65E1-2B0D-326E9D7D25F4}|petShop.csproj|solutionrelative:migrations\\20250703203028_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T03:08:51.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T03:08:27.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T02:26:00.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T02:09:30.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\FichaMedica\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\FichaMedica\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\FichaMedica\\Delete.cshtml",
+              "RelativeToolTip": "Views\\FichaMedica\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T02:06:07.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\FichaMedica\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\FichaMedica\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\FichaMedica\\Edit.cshtml",
+              "RelativeToolTip": "Views\\FichaMedica\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T02:05:25.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\FichaMedica\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\FichaMedica\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\FichaMedica\\Index.cshtml",
+              "RelativeToolTip": "Views\\FichaMedica\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T22:12:44.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\FichaMedica\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\FichaMedica\\Create.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\FichaMedica\\Create.cshtml",
+              "RelativeToolTip": "Views\\FichaMedica\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvysAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T21:45:46.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T21:37:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FichaMedicaController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Controllers\\FichaMedicaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FichaMedicaController.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Controllers\\FichaMedicaController.cs",
+              "RelativeToolTip": "Controllers\\FichaMedicaController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:35:54.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T20:57:38.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T20:49:19.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Usuario\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Register.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\Usuario\\Register.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Register.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T20:41:28.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswEUAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:39:00.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:20:18.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Vacuna.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Models\\Vacuna.cs",
+              "RelativeDocumentMoniker": "Models\\Vacuna.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Models\\Vacuna.cs",
+              "RelativeToolTip": "Models\\Vacuna.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:13:26.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:52:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FichaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Models\\FichaMedica.cs",
+              "RelativeDocumentMoniker": "Models\\FichaMedica.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Models\\FichaMedica.cs",
+              "RelativeToolTip": "Models\\FichaMedica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:57:14.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:13:19.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Helpers\\HashHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Helpers\\HashHelper.cs",
+              "RelativeToolTip": "Helpers\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:44:37.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:31:10.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:23:55.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T20:20:49.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250703203028_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Migrations\\20250703203028_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250703203028_Inicial.cs",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Migrations\\20250703203028_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250703203028_Inicial.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T20:30:28.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\oscar.rodriguez\\Desktop\\Net\\petshop\\petShop\\petShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T19:53:26.757Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

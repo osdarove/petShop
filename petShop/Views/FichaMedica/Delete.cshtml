@@ -1,0 +1,32 @@
+﻿@model petShop.Models.FichaMedica
+
+@{
+    ViewData["Title"] = "Eliminar Ficha Médica";
+}
+
+<h2>¿Estás seguro de que quieres eliminar esta ficha?</h2>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Mascota</dt>
+        <dd class="col-sm-10">@Model.NombreMascota</dd>
+
+        <dt class="col-sm-2">Tipo</dt>
+        <dd class="col-sm-10">@Model.TipoMascota</dd>
+
+        <dt class="col-sm-2">Tamaño</dt>
+        <dd class="col-sm-10">@Model.Tamano</dd>
+
+        <dt class="col-sm-2">Descripción</dt>
+        <dd class="col-sm-10">@Model.Descripcion</dd>
+
+        <dt class="col-sm-2">Dueño</dt>
+        <dd class="col-sm-10">@Model.Usuario?.NombreCompleto</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IDFicha" />
+        <button type="submit" class="btn btn-danger">Eliminar</button>
+        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+    </form>
+</div>

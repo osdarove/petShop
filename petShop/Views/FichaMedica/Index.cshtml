@@ -1,0 +1,39 @@
+﻿
+@model IEnumerable<petShop.Models.FichaMedica>
+
+@{
+    ViewData["Title"] = "Listado de Fichas Médicas";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre Mascota</th>
+            <th>Tipo</th>
+            <th>Tamaño</th>
+            <th>Descripción</th>
+            <th>Dueño</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ficha in Model)
+        {
+            <tr>
+                <td>@ficha.NombreMascota</td>
+                <td>@ficha.TipoMascota</td>
+                <td>@ficha.Tamano</td>
+                <td>@ficha.Descripcion</td>
+                <td>@ficha.Usuario?.NombreCompleto</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@ficha.IDFicha" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@ficha.IDFicha" class="btn btn-sm btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Nueva Ficha Médica</a>
