@@ -36,7 +36,7 @@ Este proyecto utiliza **Code First**, es decir, la base de datos se genera autom
 
 ## 🖼️ Diagrama Entidad-Relación
 
-![Diagrama ER](wwwroot/images/diagramaReWow.png)
+![Diagrama ER](petShop/wwwroot/images/diagramaReWow.png)
 
 ---
 
