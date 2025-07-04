@@ -32,9 +32,18 @@ Este proyecto utiliza **Code First**, es decir, la base de datos se genera autom
 
 ---
 
+---
+
+## 🖼️ Diagrama Entidad-Relación
+
+![Diagrama ER](wwwroot/images/diagramaReWow.png)
+
+---
+
 
 ### 🔁 1. Clonar el repositorio
 
 ```bash
 git clone https://github.com/osdarove/petShop.git
 cd petShop
+
